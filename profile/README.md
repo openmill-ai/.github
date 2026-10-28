@@ -2,9 +2,9 @@
 
 **The open-source operating system for GPU clusters.**
 
-OpenMill turns GPU capacity into a complete AI cloud. It serves open models through an
-OpenAI-compatible API, trains them, and meters and bills their use, all on your own hardware and
-under your own brand.
+Install OpenMill on your GPUs and run a complete AI cloud under your own brand: serve and train
+models, and bill for every token. Built-in AI agents tune the fleet and handle day-to-day
+operations, so a small team can run a large cloud.
 
 ## What's coming
 
